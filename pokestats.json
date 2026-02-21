@@ -6,7 +6,7 @@
     "fase_evoluzione": 1,
     "attacco": 45,
     "descrizione": "Un piccolo Pokémon metallico che emette il suono di un motore quando vola. È il mezzo di trasporto preferito nelle città costiere; attacca rilasciando una nube di veleno dal tubo di scappamento. Non ha pungiglione.",
-    "immagine": "./sources/vespin.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/vespin.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "fase_evoluzione": 2,
     "attacco": 85,
     "descrizione": "Evoluzione robusta del Vespin. Le sue ali girano così velocemente da sembrare turbine. Ha un solo occhio a forma di faro e manubri come corna di toro. Le sue mani sono ruote e sferra potenti attacchi di tipo lotta.",
-    "immagine": "./sources/vespadron.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/vespadron.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "fase_evoluzione": 1,
     "attacco": 70,
     "descrizione": "Il suo carapace è fatto di travertino e ricorda l'elmo di un centurione. Non si tira mai indietro da una sfida nell'arena. Usa la sua coda a forma di gladio per combattere su quattro zampe.",
-    "immagine": "./sources/gladiatortle.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/gladiatortle.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "fase_evoluzione": 1,
     "attacco": 55,
     "descrizione": "Un Pokémon elegante simile a un'orca che fluttua silenziosamente tra i canali. Si dice che guidi le anime perdute attraverso la nebbia di Venezia. Il suo design richiama lo stile barocco delle gondole.",
-    "immagine": "./sources/gondolux.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/gondolux.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "fase_evoluzione": 1,
     "attacco": 60,
     "descrizione": "Fa ruotare il disco sulla sua testa per accumulare energia termica. L'aroma di origano che emana ha il potere di calmare gli avversari più affamati.",
-    "immagine": "./sources/pizzerino.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/pizzerino.png"
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "fase_evoluzione": 1,
     "attacco": 95,
     "descrizione": "Un Pokémon imponente ed elegante con un lungo collo di marmo ispirato alla celebre torre. Sebbene sia un drago, non può volare, ma i suoi colpi con il collo inclinato sono devastanti.",
-    "immagine": "./sources/granpisa.png"
+    "immagine": "https://raw.githubusercontent.com/Wagner3UB/pokestats/refs/heads/main/sources/granpisa.png"
   }
 ]
